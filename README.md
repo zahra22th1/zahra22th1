@@ -1,4 +1,4 @@
-<img src="(https://github-widget-9an3.vercel.app/api/pet" />
+<img src="https://github-widget-9an3.vercel.app/api/pet" />
 - 🌱 I’m currently learning java
 
 
