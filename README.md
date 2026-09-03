@@ -1,5 +1,5 @@
 <img src="https://github-widget-9an3.vercel.app/api/pet" />
-- 🌱 I’m currently learning spring boot
+- 🌱 I’m currently learning spring boot And Linux
 
 
 
